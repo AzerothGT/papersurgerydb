@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "papersurgerydb",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "73818749-8dbd-4f9e-93f6-6123d848091c",
+      "database_name": "psdb"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
